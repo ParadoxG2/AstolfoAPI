@@ -1,0 +1,27 @@
+{
+  "name": "astolfoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParadoxG2/AstolfoAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParadoxG2/AstolfoAPI/issues"
+  },
+  "homepage": "https://github.com/ParadoxG2/AstolfoAPI#readme",
+  "dependencies": {
+    "astolfoapi": "file:",
+    "child_process": "^1.0.2",
+    "i": "^0.3.7",
+    "jquery": "^3.7.1",
+    "npm": "^10.8.3"
+  }
+}
